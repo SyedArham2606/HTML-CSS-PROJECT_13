@@ -12,9 +12,6 @@ This project demonstrates the use of HTML and CSS to create a responsive and vis
 - Responsive design with CSS
 - Cross-browser compatibility
 
-## SreenShot
-
-
 ## Setup
 1. Clone the repository:
     git clone https://github.com/SyedArham2606/HTML-CSS-PROJECT_13.git.
